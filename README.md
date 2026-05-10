@@ -1,9 +1,14 @@
 # FactLens AI
 
+## Live Demo
+
+[Live Demo](https://fact-lens-silk.vercel.app/)
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-TypeScript-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vite-TailwindCSS-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -14,7 +19,7 @@
 
 # Overview
 
-FactLens AI is an AI-powered fact verification platform designed to analyze PDF documents, extract factual claims, and validate them using intelligent web-assisted verification.
+FactLens AI is an AI-powered document verification platform designed to analyze PDF documents, extract factual claims, and validate them using intelligent web-assisted verification.
 
 The system helps users identify:
 - misleading information
@@ -73,13 +78,13 @@ Instead of manually validating long reports or articles, FactLens AI automates t
 
 ## Dashboard Interface
 
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./screenshots/factlens-dashboard.png)
 
 ---
 
 ## Claim Verification Results
 
-![Verification Results](./screenshots/fact_check_result.png)
+![Verification Results](./screenshots/verification-results.png)
 
 ---
 
